@@ -7,7 +7,7 @@
 ```Bash
 yay -S zsh zoxide
 chsh -s $(which zsh)
-git clone https://github.com/akitaonrails/omarchy-zsh.git ~/config/zsh
+git clone https://github.com/akitaonrails/omarchy-zsh.git ~/.config/zsh
 ln -s ~/.config/zsh/.zshrc ~/.zshrc 
 ```
 
